@@ -1,10 +1,9 @@
-# Auto Completing Space Maze
+# Auto-Completing Maze with Polyline Solution
 
-This project is an AI-powered maze solver that automatically completes a 3D space maze. The AI uses pathfinding algorithms (like A* or DFS) to navigate the maze and find the most efficient path to the exit, without any human interaction. The maze and AI's progress are visualized in real-time in a 3D environment.
+This project features three pre-made mazes with varying difficulty levels: **Easy**, **Medium**, and **Hard**. The maze is solved by drawing a polyline through the solution path, automatically completing the maze from start to exit.
 
 ## Features
-- Generates random 3D mazes
-- Autonomous maze solving using AI algorithms
-- Real-time visualization of the maze-solving process
+- Three pre-made mazes: **Easy**, **Medium**, and **Hard**
+- A polyline is drawn through the solution path to automatically complete the maze
 
-Enjoy exploring how the AI solves the maze automatically!
+Enjoy watching the maze solve itself with a drawn path at different difficulty levels!
