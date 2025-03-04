@@ -1,4 +1,4 @@
-# Auto-Completing Maze with Polyline Solution
+# Space Maze
 
 This project features three pre-made mazes with varying difficulty levels: **Easy**, **Medium**, and **Hard**. The maze is solved by drawing a polyline through the solution path, automatically completing the maze from start to exit.
 
