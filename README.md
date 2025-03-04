@@ -5,6 +5,10 @@ This project features three mazes with varying difficulty levels: **Easy**, **Me
 ## Features
 - Three pre-made mazes: **Easy**, **Medium**, and **Hard**
 - A polyline is drawn through the solution path to automatically complete the maze
+- Explosion animation
+- Planets: Earth, Venus and Saturn
+- Rocket
+- Asteroid
 
 ## Theme
 - Space
